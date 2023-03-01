@@ -1,4 +1,4 @@
-# Importing the DataScrapper class and the pandas library
+# Importing the DataScrapper class
 from data_scrapper import DataScrapper
 
 # Calling the DataScrapper class
